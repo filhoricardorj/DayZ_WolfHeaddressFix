@@ -1,7 +1,7 @@
 # WolfHeaddressFix
 
 Mini-mod that fixes a server/client crash when dealing damage to the `Headdress_Wolf` (Wolf Headdress) headgear.
-
+https://feedback.bistudio.com/T199068
 
 ## Acknowledgments
 
