@@ -1,0 +1,9 @@
+{
+    "enscript.includePaths": [
+        "P:\\scripts"
+    ],
+    "files.associations": {
+        "*.cpp": "enscript",
+        "*.c": "enscript"
+    }
+}
