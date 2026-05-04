@@ -4,6 +4,10 @@ Mini-mod que corrige um crash do servidor/cliente ao causar dano em headgear `He
 
 **[English version](README_EN.md)**
 
+# Agradecimentos
+
+Agradecimento a todo time OMDM pelo esforço e paciência para encontrar e auxiliar na busca do problema e ajudar a testar esta solução.
+
 ## O bug
 
 No `config.cpp` vanilla do DayZ (`DZ\characters\headgear\config.cpp`), a classe `Headdress_Wolf > DamageSystem > healthLevels` no level **0.7** referencia o rvmat com **barra invertida dupla**:
